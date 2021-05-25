@@ -1,0 +1,24 @@
+Log in page
+
+Church management system
+    add new member
+    edit member information
+    delete member
+    search members
+    mark attendance
+    Users
+    Weekly operations 
+    Monthly summaries
+
+Show current statistics on first page
+
+Weekly operations:
+    mark register,
+    total number of males
+    total number of females
+    total number of attendance
+
+Member information
+    name
+    Gender
+    phone number
